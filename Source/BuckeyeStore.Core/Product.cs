@@ -15,7 +15,7 @@ namespace BuckeyeStore.Core
 
         public void AddReview(Review review)
         {
-            throw new NotImplementedException();
+            this.Review = review;
         }
     }
 }

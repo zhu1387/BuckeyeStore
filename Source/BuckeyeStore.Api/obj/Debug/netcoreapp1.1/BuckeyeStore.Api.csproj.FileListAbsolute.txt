@@ -1,0 +1,4 @@
+C:\Users\Damon Z\Desktop\3610\BuckeyeStore\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.deps.json
+C:\Users\Damon Z\Desktop\3610\BuckeyeStore\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.runtimeconfig.json
+C:\Users\Damon Z\Desktop\3610\BuckeyeStore\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.runtimeconfig.dev.json
+C:\Users\Damon Z\Desktop\3610\BuckeyeStore\Source\BuckeyeStore.Api\obj\Debug\netcoreapp1.1\BuckeyeStore.Api.AssemblyInfo.cs

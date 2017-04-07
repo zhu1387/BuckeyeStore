@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="BuckeyeStore.Core.Tests.csproj" />
+    <ProjectReference Include="..\..\Source\BuckeyeStore.Core\BuckeyeStore.Core.csproj" />
   </ItemGroup>
 
 </Project>

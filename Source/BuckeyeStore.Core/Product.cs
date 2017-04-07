@@ -11,5 +11,11 @@ namespace BuckeyeStore.Core
         public AggregateRating AggregateRating { get; set; }
         public List<Offer> Offers { get; set; }
         public string Sku { get; set; }
+        public string Brand { get; set; }
+
+        public void AddReview(Review review)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
